@@ -31,20 +31,6 @@
   
 </div>
 
- <hr/>
-
-
-<div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
-    <div>
-        <label>Social: </label>
-    </div>
-    <div>
-        <a href="" target="_blank">
-          <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-instagram-2950129-2447888.png" width="48px" height="48px"/>
-        </a>
-    </div>
-    
-</div>
 
  <hr/>
  
@@ -92,13 +78,26 @@
 -->
 <div align=center>
 
+<div align="center">
+    <div>
+        <b>Socials</b>
+    </div>
+    <div>
+        <a href="https://www.instagram.com/ashwinsunuwar" target="_blank">
+          <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-instagram-7096205-5753427.png?f=webp" width="47px" height="47px"/>
+        </a>
+        <a href="https://twitter.com/Ashwin_sunuwarr" target="_blank">
+          <img src="https://cdn.icon-icons.com/icons2/4029/PNG/512/twitter_x_new_logo_x_rounded_icon_256078.png" width="60px" height="47px"/>
+        </a>        
+    </div>   
+</div>
+
+<hr/>
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=AshwinSunuwarr2&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
+
 
 
