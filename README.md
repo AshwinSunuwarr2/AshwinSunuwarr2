@@ -28,7 +28,22 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options 
   </a>-->
 
-  </a>
+  
+</div>
+
+ <hr/>
+
+
+<div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+    <div>
+        <label>Social: </label>
+    </div>
+    <div>
+        <a href="" target="_blank">
+          <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-instagram-2950129-2447888.png" width="48px" height="48px"/>
+        </a>
+    </div>
+    
 </div>
 
  <hr/>
