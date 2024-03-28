@@ -14,8 +14,8 @@
  🌱 I’m currently diving deep into **ReactJS**
 
 💬 Ask me about **javascript, react, python, mysql, ... or anything about me**
-<br/><a href="
-https://ashwinsunuwar.com.np/" target=_blank>ashwinsunuwar.com.np</a>
+<br/>
+<a href="https://ashwinsunuwar.com.np/" target="_blank">ashwinsunuwar.com.np</a>
  </div>
  
 <div align="center"> 
