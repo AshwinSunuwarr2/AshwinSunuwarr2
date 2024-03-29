@@ -15,7 +15,8 @@
 
 💬 Ask me about **javascript, react, python, mysql, ... or anything about me**
 <br/>
-<a href="https://ashwinsunuwar.com.np/" target="_blank">ashwinsunuwar.com.np</a>
+<p>Visit me 👉🏻 
+<a href="https://ashwinsunuwar.com.np/" target="_blank">ashwinsunuwar.com.np</a></p>
  </div>
  
 <div align="center"> 
