@@ -11,7 +11,7 @@
  
  🔭 I've completed Bachelors in **Computer engineering**
  
- 🌱 I’m learning into **RTK and Typescript**
+ 🌱 I’m learning **RTK and Typescript**
 
 💬 Ask me about **javascript, react, python, mysql, ... or anything about me**
 <br/>
