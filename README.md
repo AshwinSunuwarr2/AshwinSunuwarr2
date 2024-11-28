@@ -11,9 +11,9 @@
  
  🔭 I've completed Bachelors in **Computer engineering**
  
- 🌱 I’m diving towards **AI**
+ 🌱 Learning new things daily
 
-💬 Ask me about **javascript, react, python, mysql, ... or anything about me**
+💬 **javascript, MERN, python, mysql, ... **
 <br/>
 <p>Visit me 👉🏻 
 <a href="https://ashwinsunuwar.com.np/" target="_blank">ashwinsunuwar.com.np</a></p>
